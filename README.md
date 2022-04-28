@@ -16,4 +16,4 @@
 
 ![Cse19455 github stats](https://github-readme-stats.vercel.app/api?username=Cse19455&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/Cse19455/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/Cse19455/github-profile-trophy&theme=dark)
