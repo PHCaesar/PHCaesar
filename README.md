@@ -1,13 +1,14 @@
-### No pain no ✨oracle sql developer✨!
+## No pain no ✨ORACLE SQL DEVELOPER✨!
 
 
-🔭 I’m currently working on
+##### 🔭 I’m currently working on
     - Blocket (Terraria Based Game)
     - C# & Java Web Apps
-🌱 I’m currently learning Java - Springboot
-👯 I’m looking to collaborate on .net & unity projects
-💬 Ask me about C#
-📫 You can reach me via Mail-Address
+
+- 🌱 I’m currently learning *Java - Springboot*
+- 👯 I’m looking to collaborate on *.net & unity projects*
+- 💬 Ask me about C#
+- 📫 You can reach me via Mail
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cse19455&layout=compact&theme=dark&hide_border=true)
