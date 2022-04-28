@@ -11,4 +11,4 @@
 
 - ⚡ Fun fact: You are still reading? ;)
 
-![Cse19455 github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![Cse19455 github stats](https://github-readme-stats.vercel.app/api?username=Cse19455&show_icons=true&hide_border=true)
