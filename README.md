@@ -11,4 +11,9 @@
 
 - ⚡ Fun fact: You are still reading? ;)
 
-![Cse19455 github stats](https://github-readme-stats.vercel.app/api?username=Cse19455&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cse19455&layout=compact&theme=dark&hide_border=true)
+
+![Cse19455 github stats](https://github-readme-stats.vercel.app/api?username=Cse19455&show_icons=true&hide_border=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/Cse19455/github-profile-trophy)
