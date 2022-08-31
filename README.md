@@ -1,15 +1,16 @@
 <img title="a title" alt="BG" src="bg.png">
 
-## No pain no ✨ORACLE SQL DEVELOPER✨!
 
-
-##### 🔭 I’m currently working on
-    - Blocket (Terraria Based Game)
-    - C# & Java Web Apps
+# No pain no ✨ORACLE SQL DEVELOPER✨!
 ![HTML Icon](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![CSS Icon](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=fff)
 ![C# Icon](https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=fff)
 ![Spring Icon](https://img.shields.io/badge/-spring-6DB33F?logo=spring&logoColor=fff)
+
+
+#### 🔭 I’m currently working on
+    - Blocket (Terraria Based Game)
+    - C# & Java Web Apps
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cse19455&hide_border=true&bg_color=2,090909,131313&text_color=EC9F05&icon_color=FF4E00&title_color=FF4E00)
