@@ -12,6 +12,11 @@
 <img src="https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=fff">
 <img src="https://img.shields.io/badge/-spring-6DB33F?logo=spring&logoColor=fff">
 
+<p><br>
+My name is <b>Cserich Philipp</b> and i am a austrian computer science student.<br><br>
+Throughout the last few years i have participated in many small projects,<br> mostly written in the C# & Java environment.<br>
+Because of that i was able to gather a decent amount of skills <br>and developed a passion for programming (especially Software Development)
+</p>
 <h4> 🔭 I’m currently working on</h4>
 <ul>
 <li>A school project written in java spring-boot</li>
