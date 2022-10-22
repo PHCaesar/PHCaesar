@@ -24,7 +24,7 @@
 <br>
 <br>
 
-## 🧠 My Skillset :
+## 🧠 My current Skillset :
 <div align="center">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cse19455&show_icons=true&hide_border=true&bg_color=2,EC9F05,FF4E00&text_color=RRGGBB&icon_color=000000&title_color=000000"
