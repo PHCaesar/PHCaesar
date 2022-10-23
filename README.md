@@ -31,8 +31,8 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 
 ## 🧠 My current Skillset :
 <div align="center">
-
- <img align="right" src="https://user-images.githubusercontent.com/59655496/197397485-27c6cc1c-dfbd-492c-8e4f-da838557afcc.png" width="5%" href="https://www.instagram.com/p._.h._.c/">
+<a href="https://www.instagram.com/p._.h._.c/">
+ <img align="right" src="https://user-images.githubusercontent.com/59655496/197397485-27c6cc1c-dfbd-492c-8e4f-da838557afcc.png" width="5%" ></a>
  <img align="right" src="https://user-images.githubusercontent.com/59655496/197398020-9395cd0d-2b4e-44b6-9ab3-73e40d21d51d.png" width="50%" height="5%">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cse19455&show_icons=true&hide_border=true&bg_color=2,EC9F05,FF4E00&text_color=RRGGBB&icon_color=000000&title_color=000000"
  width="50%">
