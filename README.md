@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cse19455&hide_border=true&bg_color=2,090909,131313&text_color=EC9F05&icon_color=FF4E00&title_color=FF4E00" >
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHCaesar&hide_border=true&bg_color=2,090909,131313&text_color=EC9F05&icon_color=FF4E00&title_color=FF4E00" >
 
 <div align="left">
 <h1> Servus , my friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
@@ -34,10 +34,10 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 <a href="https://www.instagram.com/p._.h._.c/">
  <img align="right" src="https://user-images.githubusercontent.com/59655496/197397485-27c6cc1c-dfbd-492c-8e4f-da838557afcc.png" width="5%" ></a>
  <img align="right" src="https://user-images.githubusercontent.com/59655496/197398020-9395cd0d-2b4e-44b6-9ab3-73e40d21d51d.png" width="50%" height="5%">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cse19455&show_icons=true&hide_border=true&bg_color=2,EC9F05,FF4E00&text_color=RRGGBB&icon_color=000000&title_color=000000"
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PHCaesar&show_icons=true&hide_border=true&bg_color=2,EC9F05,FF4E00&text_color=RRGGBB&icon_color=000000&title_color=000000"
  width="50%">
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=cse19455&column=4&theme=juicyfresh&no-frame=true&no-bg=true"
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=PHCaesar&column=4&theme=juicyfresh&no-frame=true&no-bg=true"
  width="50%">
 
 <h3 align="left"> ☕ Java/Kotlin<br> <br><img src="https://img.shields.io/badge/-spring-6DB33F?logo=spring&logoColor=fff"></h3>
