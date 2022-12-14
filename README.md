@@ -44,8 +44,10 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=PHCaesar&column=4&theme=juicyfresh&no-frame=true&no-bg=true"
  width="50%">
+ 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PHCaesar&" alt="PHCaesar" width="50%" />
 
-<h3 align="left"> ☕ Java/Kotlin<br> <br><img src="https://img.shields.io/badge/-spring-6DB33F?logo=spring&logoColor=fff"></h3>
+<h3 align="left"> ☕ Java/Kotlin<br> <br><img src="https://img.shields.io/badge/-spring-6DB33F?logo=spring&logoColor=ffffff&no-frame=true&no-bg=true"></h3>
 
 
 <br>
