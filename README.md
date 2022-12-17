@@ -21,6 +21,8 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 <ul>
 <li>A school project written in java spring-boot</li>
 <li>A Diploma Project (Vue 3)</li>
+<li>Quick Lecture - a university summarization tool</li>
+<li>Drone CI - technical paper</li>
 </ul>
 </div>
 
