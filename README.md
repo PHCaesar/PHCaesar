@@ -14,6 +14,8 @@
 
 <p><br>
 My name is <b>Cserich Philipp</b> and i am an austrian computer science student.<br><br>
+> "No Coffee, No Code!"
+
 Throughout the last few years i have participated in many small projects,<br> mostly written in the C# & Java environment.<br>
 Because of that i was able to gather a decent amount of skills <br>and developed a passion for programming (especially Software Development)
 </p>
@@ -50,7 +52,7 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PHCaesar&" alt="PHCaesar" width="50%" />
 
 <h3 align="left"> ☕ Java/Kotlin<br> <br><img src="https://img.shields.io/badge/-spring-6DB33F?logo=spring&logoColor=ffffff&no-frame=true&no-bg=true"></h3>
-
+<hr>
 
 <br>
 
@@ -62,15 +64,20 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 <li>.....(many different frameworks & libraries)</li>
 </ul>
 </div>
+ <h3 align="left"> 🖥️ C#</h3>
+<hr>
+
+<div align="left" width="50%">
+<img src="https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=fff">
+ <li> EfCore</li>
+ <li> WPF</li>
+ <li>Unity</li>
+ <li> ASP.net / ASP.net Core</li>
+</div>
 </div>
 
-### 🖥️ C#
-![C# Icon](https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=fff)
-- EfCore
-- WPF
-- Unity
-- ASP.net / ASP.net Core
 ### Webdev
+----
 ![HTML Icon](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![CSS Icon](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=fff)
 - JS/TS
@@ -79,10 +86,12 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 - HTML/XML
 - CSS/SCSS
 ### DevOPS
+----
 - 🐋 Docker/Kubernetes
 - 👾 Git
 - 🛰 Drone ci
 - Attlassian env.
 
 ----
+
 ⚡ Fun fact: You are still reading? ;)
