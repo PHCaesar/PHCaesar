@@ -14,7 +14,9 @@
 
 <p><br>
 My name is <b>Cserich Philipp</b> and i am an austrian computer science student.<br><br>
-> "No Coffee, No Code!"
+<blockquote>
+<p>"No Coffee, No Code!"</p>
+</blockquote>
 
 Throughout the last few years i have participated in many small projects,<br> mostly written in the C# & Java environment.<br>
 Because of that i was able to gather a decent amount of skills <br>and developed a passion for programming (especially Software Development)
