@@ -1,16 +1,16 @@
-<img title="a title" alt="BG" src="bg.png">
+<img title="a title" alt="BG" src="https://user-images.githubusercontent.com/59655496/229298274-b39ce9dd-e5c4-413e-87d8-1fc68202c051.png" width="100%">
 
 
 <div align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHCaesar&hide_border=true&bg_color=2,090909,131313&text_color=EC9F05&icon_color=FF4E00&title_color=FF4E00" >
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHCaesar&hide_border=true&bg_color=2,090909,131313&text_color=Ffffff&icon_color=Ffffff&title_color=Ffffff" >
 
 <div align="left">
 <h1> Servus , my friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
-<img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=fff">
-<img src="https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=fff">
-<img src="https://img.shields.io/badge/-spring-6DB33F?logo=spring&logoColor=fff">
+<img src="https://img.shields.io/badge/-HTML-FF0A0A?logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/-css-F31644?logo=css3&logoColor=fff">
+<img src="https://img.shields.io/badge/-.net-E32692?logo=.net&logoColor=fff">
+<img src="https://img.shields.io/badge/-spring-CC3DFF?logo=spring&logoColor=fff">
 
 <p><br>
 My name is <b>Cserich Philipp</b> and i am an austrian computer science student.<br><br>
@@ -45,7 +45,7 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 </a>
  
 <img align="right" src="https://user-images.githubusercontent.com/59655496/197398020-9395cd0d-2b4e-44b6-9ab3-73e40d21d51d.png" width="50%" height="5%">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PHCaesar&show_icons=true&hide_border=true&bg_color=2,EC9F05,FF4E00&text_color=RRGGBB&icon_color=000000&title_color=000000"
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PHCaesar&show_icons=true&hide_border=true&bg_color=2,E32692,CC3DFF&text_color=RRGGBB&icon_color=000000&title_color=000000"
  width="50%">
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=PHCaesar&column=4&theme=juicyfresh&no-frame=true&no-bg=true"
@@ -53,7 +53,7 @@ Because of that i was able to gather a decent amount of skills <br>and developed
  
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PHCaesar&" alt="PHCaesar" width="50%" />
 
-<h3 align="left"> ☕ Java/Kotlin<br> <br><img src="https://img.shields.io/badge/-spring-6DB33F?logo=spring&logoColor=ffffff&no-frame=true&no-bg=true"></h3>
+<h3 align="left"> ☕ Java/Kotlin<br> <br><img src="https://img.shields.io/badge/-spring-CC3DFF?logo=spring&logoColor=ffffff&no-frame=true&no-bg=true"></h3>
 <hr>
 
 <br>
@@ -70,7 +70,7 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 <hr>
 
 <div align="left" width="50%">
-<img src="https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=fff">
+<img src="https://img.shields.io/badge/-.net-E32692?logo=.net&logoColor=fff">
  <li> EfCore</li>
  <li> WPF</li>
  <li>Unity</li>
@@ -80,8 +80,8 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 
 ### Webdev
 ----
-![HTML Icon](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![CSS Icon](https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=fff)
+![HTML Icon](https://img.shields.io/badge/-HTML-FF0A0A?logo=html5&logoColor=fff)
+![CSS Icon](https://img.shields.io/badge/-css-F31644?logo=css3&logoColor=fff)
 - JS/TS
     - Vue.js
     - Node.js
