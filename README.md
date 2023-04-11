@@ -31,9 +31,12 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 </div>
 
 </div>
+
 <br>
 <br>
 <br>
+
+<img src="https://user-images.githubusercontent.com/59655496/231159267-b7590559-cb53-4014-b945-b6a17f25e765.png">
 
 ## 🧠 My current Skillset :
 <div align="center">
@@ -87,6 +90,9 @@ Because of that i was able to gather a decent amount of skills <br>and developed
     - Node.js
 - HTML/XML
 - CSS/SCSS
+
+![image](https://user-images.githubusercontent.com/59655496/231158602-9a995d89-3677-4c66-9f88-6e8e9a73f053.png)
+
 ### DevOPS
 ----
 - 🐋 Docker/Kubernetes
