@@ -48,10 +48,10 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=PHCaesar&show_icons=true&hide_border=true&bg_color=2,E32692,CC3DFF&text_color=RRGGBB&icon_color=000000&title_color=000000"
  width="50%">
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=PHCaesar&column=4&theme=juicyfresh&no-frame=true&no-bg=true"
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=PHCaesar&column=4&theme=dracula&no-frame=true&no-bg=true"
  width="50%">
  
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PHCaesar&" alt="PHCaesar" width="50%" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PHCaesar&theme=modern-lilac" alt="PHCaesar" width="50%" />
 
 <h3 align="left"> ☕ Java/Kotlin<br> <br><img src="https://img.shields.io/badge/-spring-CC3DFF?logo=spring&logoColor=ffffff&no-frame=true&no-bg=true"></h3>
 <hr>
