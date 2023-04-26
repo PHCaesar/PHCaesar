@@ -48,7 +48,7 @@ Because of that i was able to gather a decent amount of skills <br>and developed
 </a>
  
 <img align="right" src="https://user-images.githubusercontent.com/59655496/197398020-9395cd0d-2b4e-44b6-9ab3-73e40d21d51d.png" width="50%" height="5%">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PHCaesar&show_icons=true&hide_border=true&bg_color=2,E32692,CC3DFF&text_color=RRGGBB&icon_color=000000&title_color=000000"
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PHCaesar&show_icons=true&hide_border=true&bg_color=2,0D1117,0D1117&text_color=5D417A&icon_color=C770F0&title_color=C770F0"
  width="50%">
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=PHCaesar&column=4&theme=dracula&no-frame=true&no-bg=true"
